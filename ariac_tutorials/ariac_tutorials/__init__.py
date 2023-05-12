@@ -1,1 +1,0 @@
-'''Package which consists of multiple tutorials written in Python and C++'''
