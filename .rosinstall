@@ -7,3 +7,7 @@
     local-name: flexbe
     uri: https://github.com/FlexBE/flexbe_behavior_engine.git
     version: ros2-devel
+- git:
+    local-name: flexbe_state_library/common_flexbe_states
+    uri: https://bitbucket.org/thalagoyarobotics/common_flexbe_states.git
+    version: ros2-devel
